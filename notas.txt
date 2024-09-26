@@ -1,0 +1,7 @@
+//aula de react- caderno de anotacoes
+
+import ProtoTypes from "proto-types"
+cria defnicoes para as prottipes
+
+
+* eventos: sao os mesmos do dom
